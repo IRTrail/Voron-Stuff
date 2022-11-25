@@ -19,6 +19,7 @@ Now is a good time to tune the Z belts with a frequency measuring app on your ph
 The final step is to adjust the A/B belts. Once again you could use the app, the gauge, or induced resonance, but I had pretty good luck getting one belt "about right" then checking the squareness of the X and Y rails while tensioning the other. Unequal tension will result in a skewed X rail, which isn't OK unless you drive an old FIAT or something. Just be sure to check the X rail squareness again after you tension the belts.
 
 A couple other hints:
+
     1. There is such a device as a 1/4" hex drive ratchet. It looks like a regular, albeit small, ratchet, but instead of having a 1/4", 3/8", etc. square drive for a socket, it has a 1/4" hex drive so you can drive hex bits with it. You need one. Get a set of 1/4" drive bits as well.
 
     2. If you're doing the pins mod, some of the idlers might be too tight on the pins. They are, from what I can see online, a "transition" fit. That means they are somewhere between a mild interference fit and a slide fit. Depending on the pin and the idler bearing, it may be too tight. If that happens, I found it helps to chuck the pin up in a drill and use some Mother's or other metal polish on the pin. This reduces the outer diameter by a slight amount and helps the tighter bearing fit...sometimes.
