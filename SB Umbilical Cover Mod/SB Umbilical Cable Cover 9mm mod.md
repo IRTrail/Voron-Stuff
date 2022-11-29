@@ -7,3 +7,4 @@ This one goes along with the A drive mount I have in this folder.
 
 Less wires, more cowbell.
 
+![It is a cover...with a clamp.](https://github.com/IRTrail/Voron-Stuff/blob/main/SB%20Umbilical%20Cover%20Mod/Images/SB_umbilical_cover_9mm.png)
