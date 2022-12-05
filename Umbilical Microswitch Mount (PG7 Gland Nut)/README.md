@@ -7,7 +7,7 @@ Print it with ABS or ASA. Don't use PETG or PLA for the heated chamber because i
 
 Somewhere, someone remixed the above link and made a "skiny" CW2 mount. I completely apologize, because I didn't save the link, so I cannot give proper credit. This irks me, so if you know where it came from, let me know and I shall give credit post haste.
 
-Here's some pics:
+Here's some pics (in the worst lighting possible, nonetheless):
 
 - Main View:
 ![Main View](https://user-images.githubusercontent.com/53546870/205722374-d9327832-1cc7-499b-9a2a-f168241cde71.jpg)
