@@ -9,3 +9,11 @@ Somewhere, someone remixed the above link and made a "skiny" CW2 mount. I comple
 
 Here's some pics:
 
+- Main View:
+    https://github.com/IRTrail/Voron-Stuff/blob/main/Umbilical%20Microswitch%20Mount%20(PG7%20Gland%20Nut)/Images/Main%20View.jpg
+    
+- Detail View:
+    https://github.com/IRTrail/Voron-Stuff/blob/main/Umbilical%20Microswitch%20Mount%20(PG7%20Gland%20Nut)/Images/Detail%20View.jpg
+    
+- Tool Head View
+    https://github.com/IRTrail/Voron-Stuff/blob/main/Umbilical%20Microswitch%20Mount%20(PG7%20Gland%20Nut)/Images/Toolhead%20View.jpg
