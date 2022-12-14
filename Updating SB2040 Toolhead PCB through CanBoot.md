@@ -8,10 +8,9 @@
 ## The process
   The main process is pretty much the same as flashing Klipper after flashing CanBoot:
   1. SSH into your Pi
-  2. ```
-    cd ~/klipper
+  2. ```cd ~/klipper
     make clean
     make menuconfig
     ```  
     You should have the following options for the SB2040 and CanBoot:
-    
+    ![Alt Image text](https://user-images.githubusercontent.com/53546870/207622631-bedbdb38-ff9e-4ac0-97b7-44708631663f.png, "menuconfig")
