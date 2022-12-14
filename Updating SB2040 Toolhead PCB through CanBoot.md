@@ -8,7 +8,8 @@
 ## The process
   The main process is pretty much the same as flashing Klipper after flashing CanBoot:
   1. SSH into your Pi
-  2. ```cd ~/klipper
+  2. Perform the following:
+    ```cd ~/klipper
     make clean
     make menuconfig
     ```  
