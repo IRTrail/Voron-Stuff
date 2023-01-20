@@ -5,7 +5,8 @@ I integrated the Y endstop switch into the cover. It will fit...snugly. You migh
 
 Print it with ABS or ASA. Don't use PETG or PLA for the heated chamber because it WILL warp and you might crash your X rail on homing, or all your babies will be born naked. Don't blame me for either!
 
-Somewhere, someone remixed the above link and made a "skiny" CW2 mount. I completely apologize, because I didn't save the link, so I cannot give proper credit. This irks me, so if you know where it came from, let me know and I shall give credit post haste.
+Here is the link for Hartk's CW2 Umbilical. I used the `cw2_umbPG7_skinnyy.step` file without alteration. Thanks to Hartk.
+    https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/CW2_SB2040_CAN_Umbilical/CAD
 
 Here's some pics (in the worst lighting possible, nonetheless):
 
