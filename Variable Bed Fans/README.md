@@ -26,4 +26,4 @@ In reality, you could just work on fine tuning the fast fan speed from the origi
 
 That being said, it doesn't ever really stay at the target power use. The PID on the bed drifts quite wildly at times. So, I would recommend the coeff variable be low (0.2-0.5) and your fast bed fan speed be tuned pretty well. If you use coeff=1.0 and the power delta is large enough, it can get into a cycle where it fights its self and then you get a Klipper shutdown because the bed isn't heating correctly.
 
-I would love any feedback.
+I would love any feedback. This is still very much a work in progress.
