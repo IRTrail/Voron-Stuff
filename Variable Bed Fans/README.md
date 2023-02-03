@@ -29,4 +29,7 @@ In reality, you could just work on fine tuning the fast fan speed from the origi
 
 That being said, it doesn't ever really stay at the target power use. The PID on the bed drifts quite wildly at times. So, I would recommend cp and ct variables  set low (0.1-0.25) and your fast bed fan speed be tuned pretty well. If you use cp or ct=1.0 it can get into a cycle where it fights its self and then you get a Klipper shutdown because the bed isn't heating correctly.
 
+### Other things of note:
+Things like QGL, homing, bed meshing, etc. will preempt the fan adjustment delayed gcode loop. Therefore, if a klipper inherent process that takes a long time (QGL, bed mesh) activates when your fans are at a high setting, they won't slow down and the bed temp will plummet, causing an error in klipper. So, make sure your fans have stabilized and are at a sane speed when starting a print, performing QGL, or bed meshing. If they're close to the correct speed anyway, it shouldn't make a difference. **_You are heat soaking...aren't you?_** 
+
 I would love any feedback. This is still very much a work in progress.
