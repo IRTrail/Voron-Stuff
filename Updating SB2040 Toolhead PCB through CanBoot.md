@@ -22,13 +22,14 @@
 
           + ` -i can0 ` is the can interface. If you named it differently, change that to match.
           + ` <uuid fingerprint> ` is the alphanumeric string you should have saved when setting up the SB2040 originally.
+          + This should be in your printer.cfg if you're updating clipper on the SB2040.
       * If you forgot your UUID, look here:
   
         https://github.com/cruiten/Voron-Related/blob/main/CANbus/Documentation/SB2040_CAN/install_configure_canboot.md
   
         It's a great page and an excellent resource for the initial setup of CanBoot and the SB2040.
   
-  5. It should have flashed and you should be up and running again.
+  5. It should have flashed and you should be up and running again. You'll probably have to do a ` firmware restart ` to get everything situated.
   
 ### Oh, and another thing...
   If you want to update your canbus speed, it's pretty simple.
