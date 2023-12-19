@@ -4,8 +4,6 @@ These parts are at the conceptual stage currently. If you use them and find issu
 Also, understand there is no CAD released for the G2 stuff. Reverse engineering it is a total PITA. Ergo, there will likely be some slicer complaints because the stls aren't "water tight."
 Use at your own risk. It's not my fault your sister is ugly or your tongue hurts when you lick a 9V battery...or anything else. Just saying.
 
-![Filametrix for G2E side view](https://github.com/IRTrail/Voron-Stuff/assets/53546870/a35a2785-9d68-4c1b-962b-a6b974300982)
-![Filametrix for G2E rear quarter view](https://github.com/IRTrail/Voron-Stuff/assets/53546870/f6106acb-b2f3-476c-bcf7-10815edc8647)
 ![Filametrix for G2E](https://github.com/IRTrail/Voron-Stuff/assets/53546870/7d406f1e-ca80-48ee-9c7e-a4754e9f7497)
 
 
