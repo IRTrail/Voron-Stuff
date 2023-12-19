@@ -12,5 +12,9 @@ If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE i
 ### G2E Parts:
 These are modified from the STLs of the G2E. You'll need to print a front and back. Then put the heatset insert in per the Filametrix Method.
 
+I ended up installing the heatset insert in the front and drilling it out to 4mm with progressively larger drills. I made the drilled hole just about to the location where the extruder gears "point" is. Then I installed a piece of PTFE tube in it, and trimmed it flush.
+If you don't want to do that, the CAD is such that the filament path is sized for 1.75mm filament (or at least what the G2E guys thought was a good diameter for 1.75mm filament) all the way to the heatset. Let me know if you use this and how it works.
+As an aside, it is an utter PITA to get that PTFE tube in the motor plate. I finally figured out that if you cut a piece a bit long, then put the tubing on a 1.5mm hex driver, the kind that looks like a small screw driver with a *comfortable* handle, you can easily push the tubing in place. Then trim flush. 
+
 ### Filametrix Parts:
 This is just the arm which has been modified to not interfere with the G2E motor.
