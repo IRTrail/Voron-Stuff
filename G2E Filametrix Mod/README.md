@@ -4,7 +4,7 @@ These parts are at the conceptual stage currently. If you use them and find issu
 Also, understand there is no CAD released for the G2 stuff. Reverse engineering it is a total PITA. Ergo, there will likely be some slicer complaints because the stls aren't "water tight."
 Use at your own risk. It's not my fault your sister is ugly or your tongue hurts when you lick a 9V battery...or anything else. Just saying.
 
-![GitHub Image](/images/Filametrix for G2E rear quarter view.png)
+![GitHub Image](Voron-Stuff/G2E Filametrix Mod/images/Filametrix for G2E rear quarter view.png)
 
 ### _All Licenses are carried over from their respective creators. Read them here:_
 https://github.com/sorted01/Filametrix
