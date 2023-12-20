@@ -30,7 +30,7 @@ Cut the tube a bit too long:
 ![PXL_20231220_142135729](https://github.com/IRTrail/Voron-Stuff/assets/53546870/70fdd213-97e0-4778-836b-e7b3f58f3931)  
 
 ##### Step 2:  
-***IMPORTANT!*** You'll need to countersink the end of the PTFE tube that goes twoard the gears. Otherwise, the flat end of the tip will catch and absolutely NOT feed. Seriously.  
+***IMPORTANT!*** You'll need to countersink the end of the PTFE tube that goes toward the gears. Otherwise, the flat end of the tip will catch and absolutely NOT feed. Seriously.  
 Just use a countersink cutter like you'd find in the woodworking section of the hardware store. Alternatively, if you're into R/C stuff, a body reamer for R/C cars works well.  
 
 ##### Step 4:  
