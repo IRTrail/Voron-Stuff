@@ -34,7 +34,7 @@ Cut the tube a bit too long:
 Just use a countersink cutter like you'd find in the woodworking section of the hardware store. Alternatively, if you're into R/C stuff, a body reamer for R/C cars works well.  
 
 ##### Step 4:  
-Fit the tube on a 1.5mm hex driver. In the picture is a Bondhus brand driver. I think I got the set on Amazon for $17 or so.  
+Fit the tube on a 1.5mm hex driver. In the picture is a Bondhus brand driver. I think I got the set on Amazon for $17 or so. Note that the countersink end goes AWAY from the driver handle.  
 ![PXL_20231220_142354741](https://github.com/IRTrail/Voron-Stuff/assets/53546870/631eb58b-8c05-4407-b9b2-506ac4c0cc7e)  
 
 ##### Step 5:
