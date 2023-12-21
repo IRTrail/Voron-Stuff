@@ -47,3 +47,11 @@ Here's the tube seated in the extruder body:
 
 ###### Notes:
 I am not entirely sure how much the heat set helps. I *think* it was intended to create a nice hard surface to shear against the blade. However, it seems to work well with the PTFE tube in there. If I get to the point that I print another extruder body, I'll try one without the heatset and a bore sized for the PTFE tube instead.</details>
+
+<details><summary>Notes on the sensored model</summary>
+### This is beta-ish. I have not printed and used it yet. Give me feedback if you print and use before I do.  
+1. The design uses a 6x3 magnet to act as a roller between the switch and filament path. Other designs use a 7mm ball. I don't have a bunch of those lying around. However, I do have a plethora of 6x3mm magnets. I figure anyone who has built a Voron 2.4 likely has one which escaped under the couch cushion at some point.
+2. It uses the standard D2F switch called out in the Voron 2.4 Bill of Materials.
+3. There are holes in the front of the body to accept 2mm socket head sheetmetal screws.
+4. There are supports. I'm sorry, it's the best I could do. They should break away pretty easy if your printer is tuned well. Dig them out with a screwdriver or needle nose pliers.
+5. It should fit an SB2040 from Mellow. I don't have a BTT version. I won't have the BTT version. I never expect to give any more of my hard earned dollars to BTT unless their customer support starts acting like...well, customer support. Besides, ruler/bolt gauges are way cooler than ducks. Just saying.</details>
