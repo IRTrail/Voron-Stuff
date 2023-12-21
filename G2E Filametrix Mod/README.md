@@ -56,5 +56,6 @@ I am not entirely sure how much the heat set helps. I *think* it was intended to
 1. The design uses a 6x3 magnet to act as a roller between the switch and filament path. Other designs use a 7mm ball. I don't have a bunch of those lying around. However, I do have a plethora of 6x3mm magnets. I figure anyone who has built a Voron 2.4 likely has one which escaped under the couch cushion at some point.  
 3. It uses the standard D2F switch called out in the Voron 2.4 Bill of Materials.  
 4. There are holes in the front of the body to accept 2mm socket head sheetmetal screws.  
-5.  There are supports. I'm sorry, it's the best I could do. They should break away pretty easy if your printer is tuned well. Dig them out with a screwdriver or needle nose pliers.  
-6. It should fit an SB2040 from Mellow. I don't have a BTT version. I won't have the BTT version. I never expect to give any more of my hard earned dollars to BTT unless their customer support starts acting like...well, customer support. Besides, ruler/bolt gauges are way cooler than ducks. Just saying.</details>
+5. There are supports. I'm sorry, it's the best I could do. They should break away pretty easy if your printer is tuned well. Dig them out with a screwdriver or needle nose pliers.
+6. The distance from the switch centerline to the top of the nozzle is 68.3 (ish) mm according to CAD for a Rapido (the OG non Super Ultra Slap Yo Momma High Flow) hotend.  
+7. It should fit an SB2040 from Mellow. I don't have a BTT version. I won't have the BTT version. I never expect to give any more of my hard earned dollars to BTT unless their customer support starts acting like...well, customer support. Besides, ruler/bolt gauges are way cooler than ducks. Just saying.</details>
