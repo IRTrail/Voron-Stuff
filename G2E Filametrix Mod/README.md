@@ -21,6 +21,8 @@ This is just the arm which has been modified to not interfere with the G2E motor
 ### G2E Parts:
 These are modified from the STLs of the G2E. You'll need to print a front and back. Then put the heatset insert in per the Filametrix Method.  
 
+<details>
+<summary>Instructions for inserting drilled heatset and PTFE tube for non-sensored version</summary>
 #### Deviation (non-sensored):
 I ended up installing the heatset insert in the front and drilling it out to 4mm with progressively larger drills. I made the drilled hole just about to the location where the extruder gears "point" is. Then I installed a piece of PTFE tube in it, and trimmed it flush.
 
@@ -46,3 +48,4 @@ Here's the tube seated in the extruder body:
 
 ###### Notes:
 I am not entirely sure how much the heat set helps. I *think* it was intended to create a nice hard surface to shear against the blade. However, it seems to work well with the PTFE tube in there. If I get to the point that I print another extruder body, I'll try one without the heatset and a bore sized for the PTFE tube instead.
+</details>
