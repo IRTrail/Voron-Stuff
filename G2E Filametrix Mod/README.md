@@ -1,5 +1,5 @@
 # G2E and Filametrix
-## _Modifications for the G2E to have a Filametrix cutter._
+## _Modifications for the G2E to have a Filametrix cutter...and a filament sensor option_
 These parts are at the conceptual stage currently. If you use them and find issues, please let me know via DM through discord @ silverback_attack. I am still in the process of printing and installing this setup. There will likely be updates.
 Also, understand there is no CAD released for the G2 stuff. Reverse engineering it is a total PITA. Ergo, there will likely be some slicer complaints because the stls aren't "water tight."
 Use at your own risk. It's not my fault your sister is ugly or your tongue hurts when you lick a 9V battery...or anything else. Just saying.
