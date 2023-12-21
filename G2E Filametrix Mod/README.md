@@ -34,13 +34,11 @@ As an aside, it is an utter PITA to get that PTFE tube in the motor plate. I fin
 2. ***IMPORTANT!*** You'll need to countersink the end of the PTFE tube that goes toward the gears. Otherwise, the flat end of the tip will catch and absolutely NOT feed. Seriously.  
 Just use a countersink cutter like you'd find in the woodworking section of the hardware store. Alternatively, if you're into R/C stuff, a body reamer for R/C cars works well.  
 
-5. "Three sir!" "Right, 1, 2, 3!"
-Fit the tube on a 1.5mm hex driver. In the picture is a Bondhus brand driver. I think I got the set on Amazon for $17 or so. Note that the countersink end goes AWAY from the driver handle.  
+3. Fit the tube on a 1.5mm hex driver. In the picture is a Bondhus brand driver. I think I got the set on Amazon for $17 or so. Note that the countersink end goes AWAY from the driver handle.  
 ![PXL_20231220_142354741](https://github.com/IRTrail/Voron-Stuff/assets/53546870/631eb58b-8c05-4407-b9b2-506ac4c0cc7e)
 
 4. Push the tube in to place. I mean PUSH! It takes a bit of effort, but make sure you get it all the way in. (TWSS)  
 ![PXL_20231220_142429565](https://github.com/IRTrail/Voron-Stuff/assets/53546870/0e34f2db-9504-40ac-ba4d-af43514da0a3)  
-
 Here's the tube seated in the extruder body:  
 ![PXL_20231220_142527996](https://github.com/IRTrail/Voron-Stuff/assets/53546870/49bd3322-76a1-4ed9-ab66-ba7b9bd680b4)  
 
