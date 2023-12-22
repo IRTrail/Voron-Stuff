@@ -51,11 +51,12 @@ I am not entirely sure how much the heat set helps. I *think* it was intended to
 
 <details><summary>Notes on the sensored model</summary>  
   
-### This is beta-ish. I have not printed and used it yet. Give me feedback if you print and use before I do.  
+### This is beta-ish. I have printed but used it yet. Give me feedback if you print and use before I do.  
 
-1. The design uses a 6x3 magnet to act as a roller between the switch and filament path. Other designs use a 7mm ball. I don't have a bunch of those lying around. However, I do have a plethora of 6x3mm magnets. I figure anyone who has built a Voron 2.4 likely has one which escaped under the couch cushion at some point.  
-3. It uses the standard D2F switch called out in the Voron 2.4 Bill of Materials.  
-4. There are holes in the front of the body to accept 2mm socket head sheetmetal screws.  
-5. There are supports. I'm sorry, it's the best I could do. They should break away pretty easy if your printer is tuned well. Dig them out with a screwdriver or needle nose pliers.
-6. The distance from the switch centerline to the top of the nozzle is 68.3 (ish) mm according to CAD for a Rapido (the OG non Super Ultra Slap Yo Momma High Flow) hotend.  
-7. It should fit an SB2040 from Mellow. I don't have a BTT version. I won't have the BTT version. I never expect to give any more of my hard earned dollars to BTT unless their customer support starts acting like...well, customer support. Besides, ruler/bolt gauges are way cooler than ducks. Just saying.</details>
+1. The design uses a 6x3 magnet to act as a roller between the switch and filament path. Other designs use a 7mm ball. I don't have a bunch of those lying around. However, I do have a plethora of 6x3mm magnets. I figure anyone who has built a Voron 2.4 likely has one which escaped under the couch cushion at some point.
+2. I didn't put a heat set insert in the extruder exit. Just shove a piece of PTFE in there an it should work OK. Be sure to countersink the end toward the extruder gears to get a smooth filament path. Hint: If you forgot, a 2.5mm bolt will thread into the PTFE and give you something to grip on and extract the tube. DAMHIKIJD.
+3. It uses the standard D2F switch called out in the Voron 2.4 Bill of Materials. You'll want the high force one. If it has an F after D2F, its low force and likely won't be as reliable and possibly sense filament where there is none. It might be good to put the roller at a slight angle and use gravity to pull the roller away from the sensor. I'll just put that on my to-do list.  
+4. There are holes in the front of the body to accept 2mm socket head sheetmetal screws. There's not a lot of room behind the switch, so if they don't grab in, it's not a big worry. They're just there to hold the switch in place. If you're nervous about it, you could use a 1.5mm drill to deepen the holes behind the switch.  
+5. There are supports. I'm sorry, it's the best I could do. They should break away pretty easy if your printer is tuned well. Dig them out with a screwdriver or needle nose pliers. You might need to touch up the overhang a bit if the switch doesn't easily insert. Since you likely have a bunch of the #4 blades for the cutter, they work pretty good for getting rid of small bulges in the switch cavity.  
+6. The distance from the switch centerline to the top of the nozzle is 68.3 (ish) mm according to CAD for a Rapido (the OG non ultra high flow) hotend.  
+7. It should fit an SB2040 from Mellow. I don't have a BTT version. I don't plan on a BTT version. If it works with yours that's cool. Send me a note and I'll include it here.</details>
