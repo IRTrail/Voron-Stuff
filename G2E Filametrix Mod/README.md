@@ -13,7 +13,7 @@ https://github.com/sorted01/Filametrix
 https://github.com/JaredC01/Galileo2
 If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE in this directory.  
 
-## There are now two versions. One is sensored, the other is without sensor. See the respective folders for CAD and STL files.
+## There are now three versions. One is sensored, one has two sensors, the other is without sensors. See the respective folders for CAD and STL files.
 Unless otherwise stated below, all the build notes from the G2E and Filametrix apply. If you look things over, you should get the idea.
 
 ### Filametrix Parts:
