@@ -7,3 +7,12 @@ Things in work:
 -- Reworked the front and rear Rapido cases to have a better mounting lug and use a M3 socket head screw instead of a countersunk screw. I have far more M3 SHCS than I do M3 CSHS. Also matched the profile to the front case mounting point.
 -- Improved the blade holder cavity for better tolerance in all three parts in contact with it.
 -- Other small changes which just cleaned up the CAD a bit. Probably not noticable to the human eye when printed.
+- The Twinsor is the focus of work right now.
+-- Other variants my be lagging behind the bleeding edge. Everyone seems to like the Twinsor and I haven't seen as much interest in the baseline or single sensor version.
+- Thanks to:
+-- gsx8829  
+  KinematicDigit  
+  CheeseFrog  
+  jelliebean
+  jmaurn
+  Sundee
