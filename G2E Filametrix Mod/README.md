@@ -9,8 +9,8 @@ Use at your own risk. It's not my fault your sister is ugly or your tongue hurts
 
 
 ### _All Licenses are carried over from their respective creators. Read them here:_
-https://github.com/sorted01/Filametrix
-https://github.com/JaredC01/Galileo2
+https://github.com/sorted01/Filametrix  
+https://github.com/JaredC01/Galileo2  
 If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE in this directory.  
 
 ## There are now three versions. One is sensored, one has two sensors, the other is without sensors. See the respective folders for CAD and STL files.
