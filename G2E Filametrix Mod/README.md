@@ -15,7 +15,7 @@ If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE i
 
 ## There are now three versions. One is sensored, one has two sensors, the other is without sensors. See the respective folders for CAD and STL files.
 Unless otherwise stated below, all the build notes from the G2E and Filametrix apply. If you look things over, you should get the idea.  
-#### Everything is in a bit of a shambles right now. Everything took off and lots of interest happened very quickly. Once I get the testing done, I'll update the repo with only the tested files.
+#### Everything is in a bit of a shambles right now. Everything took off and lots of interest happened very quickly. Once testing is done, I'll update the repo with only the tested files.
 
 ### Filametrix Parts:
 This is just the arm which has been modified to not interfere with the G2E motor.  
