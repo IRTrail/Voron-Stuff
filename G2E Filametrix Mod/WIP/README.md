@@ -10,9 +10,10 @@ Things in work:
 - The Twinsor is the focus of work right now.
 -- Other variants my be lagging behind the bleeding edge. Everyone seems to like the Twinsor and I haven't seen as much interest in the baseline or single sensor version.
 - Thanks to:
--- gsx8829  
+--
+  gsx8829  
   KinematicDigit  
   CheeseFrog  
-  jelliebean
-  jmaurn
+  jelliebean  
+  jmaurn  
   Sundee
