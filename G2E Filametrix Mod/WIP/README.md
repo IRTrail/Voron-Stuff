@@ -9,8 +9,7 @@ Things in work:
 -- Other small changes which just cleaned up the CAD a bit. Probably not noticable to the human eye when printed.
 - The Twinsor is the focus of work right now.
 -- Other variants my be lagging behind the bleeding edge. Everyone seems to like the Twinsor and I haven't seen as much interest in the baseline or single sensor version.
-- Thanks to:
---
+- Thanks to:  
   gsx8829  
   KinematicDigit  
   CheeseFrog  
