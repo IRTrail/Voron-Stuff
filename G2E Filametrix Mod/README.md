@@ -9,12 +9,13 @@ Use at your own risk. It's not my fault your sister is ugly or your tongue hurts
 
 
 ### _All Licenses are carried over from their respective creators. Read them here:_
-https://github.com/sorted01/Filametrix
-https://github.com/JaredC01/Galileo2
+https://github.com/sorted01/Filametrix  
+https://github.com/JaredC01/Galileo2  
 If not otherwise licensed, the files herein are covered by GPL V3. See LICENSE in this directory.  
 
 ## There are now three versions. One is sensored, one has two sensors, the other is without sensors. See the respective folders for CAD and STL files.
-Unless otherwise stated below, all the build notes from the G2E and Filametrix apply. If you look things over, you should get the idea.
+Unless otherwise stated below, all the build notes from the G2E and Filametrix apply. If you look things over, you should get the idea.  
+#### Everything is in a bit of a shambles right now. Everything took off and lots of interest happened very quickly. Once testing is done, I'll update the repo with only the tested files.
 
 ### Filametrix Parts:
 This is just the arm which has been modified to not interfere with the G2E motor.  
