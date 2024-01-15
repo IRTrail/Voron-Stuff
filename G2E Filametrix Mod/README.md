@@ -25,7 +25,7 @@ Unless otherwise stated below, all the build notes from the G2E and Filametrix a
 
 ## There are two arm versions.  
 One is a wide version which uses the screw in the ADXL hole for a stop.  
-The other is a stylized arm which has an integral stop which does not used the screw. However, it does obscure the ADXL hole somewhat.
+The other is a stylized arm which has an integral stop which does not use the screw. However, it does obscure the ADXL hole somewhat.  
 -- I have been told it is a PITA to install with the spring and washers and all without the screw stop. (I didn't know there were supposed to be washers!)
 
 ### NOTES:  
