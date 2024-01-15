@@ -6,7 +6,7 @@ Understand there is no CAD released for the G2 stuff. Reverse engineering it is 
 #### Use at your own risk. It's not my fault your sister is ugly or your tongue hurts when you lick a 9V battery...or anything else. Just saying.  
 
 ### Non-sensor Config:  
-![Filametrix for G2E - Baseline](https://github.com/IRTrail/Voron-Stuff/assets/53546870/c1b94d6d-f422-46dd-9f89-107b60852257)  
+![Filametrix for G2E - Baseline](https://github.com/IRTrail/Voron-Stuff/assets/53546870/971e3992-9a19-41cd-ba88-7a4262078c5e)   
 ![Filametrix for G2E - Baseline_2](https://github.com/IRTrail/Voron-Stuff/assets/53546870/f2b1baad-611c-4490-8393-d75df3c98c23)  
 
 ### Single Sensor Config:  
