@@ -31,7 +31,8 @@ The other is a stylized arm which has an integral stop which does not use the sc
 ## These are the measurements for the Rapido 1 with the Twinsor.  
 Other versions use the same measurements, I.E. the Single Sensor has the same measurement, just not the other switch.  
 These are taken from CAD and are just calculations for reference.  
-https://github.com/IRTrail/Voron-Stuff/blob/main/G2E%20Filametrix%20Mod/images/Rapido%20Twinsor%20Lengths.png
+![Rapido Twinsor Lengths](https://github.com/IRTrail/Voron-Stuff/assets/53546870/a821cf6b-4c67-44a2-a548-0bc05bf0c026)
+
 
 ### NOTES:  
 I have included all the necessary parts in each folder.  
