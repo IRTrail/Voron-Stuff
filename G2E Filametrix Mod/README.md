@@ -28,6 +28,12 @@ One is a wide version which uses the screw in the ADXL hole for a stop.
 The other is a stylized arm which has an integral stop which does not use the screw. However, it does obscure the ADXL hole somewhat.  
 -- I have been told it is a PITA to install with the spring and washers and all without the screw stop. (I didn't know there were supposed to be washers!)
 
+## These are the measurements for the Rapido 1 with the Twinsor.  
+Other versions use the same measurements, I.E. the Single Sensor has the same measurement, just not the other switch.  
+These are taken from CAD and are just calculations for reference.  
+![Rapido Twinsor Lengths](https://github.com/IRTrail/Voron-Stuff/assets/53546870/a821cf6b-4c67-44a2-a548-0bc05bf0c026)
+
+
 ### NOTES:  
 I have included all the necessary parts in each folder.  
 They should be oriented to print with no issues.  
